@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Work+Sans:wght@400;600;700;800;900&display=swap');
+
+.mainHeader{
+    background-color: aqua;
+    padding: 0.1rem;
+    height: 4rme;
+    display: flex;
+}
+.navbar-list {
+    display: flex;
+    list-style: none;
+    font-size: 1.5rem;
+    gap: 1.5rem;
+    
+    
+}
+.navbar-list li :hover{
+    color: rgb(55, 172, 5);
+}
+.Navbar-link{
+    text-decoration: none;
+    
+}
+
+.search-container{
+    float: right;
+    
+}
+.search-container button{
+    color: rgb(2, 0, 3);
+
+}
